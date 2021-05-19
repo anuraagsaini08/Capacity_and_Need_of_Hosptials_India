@@ -1,4 +1,3 @@
-![800px-Identicon svg](https://user-images.githubusercontent.com/4871646/115964722-6755cc00-a543-11eb-8592-34d380b3d905.png)
 # Capacity_and_Need_of_Hosptials_India
 
 This SimBiology MATLAB model was built to analyse health infrastructure and predict the surge in demand during first wave of Covid-19 infection in India. 
