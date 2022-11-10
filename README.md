@@ -6,6 +6,8 @@ This model can be downloaded and modified for free. It uses daily infections dat
 
 For more details please contact me [(Anuraag) on twitter](https://twitter.com/asainianuraags/). 
 
+Here is the [link](https://www.sciencedirect.com/science/article/pii/S2468042720300415) to our paper on covid infection predictions and demand vs supply in terms of the hospital beds in India. 
+
 
 
 <img src="https://user-images.githubusercontent.com/4871646/115918464-2acb9700-a495-11eb-8bd0-8fbc6cb40491.jpg" width="400">       <img src="https://user-images.githubusercontent.com/4871646/115918428-230bf280-a495-11eb-840d-7544d92615f9.jpg" width="300"> 
